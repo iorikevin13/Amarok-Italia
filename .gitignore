@@ -1,0 +1,14 @@
+# Node
+node_modules/
+dist/
+.vite/
+
+# Environment
+.env
+.env.local
+
+# Build and editor configs
+.vercel
+.vscode
+.DS_Store
+
